@@ -15,7 +15,7 @@ Coach: [Yiqi Yan](https://saoyan.github.io/)
 ![](https://github.com/TFTxiaozu/TFT-ML-Week-2/blob/master/assets/assign_1_3.png)  
 ![](https://github.com/TFTxiaozu/TFT-ML-Week-2/blob/master/assets/assign_1_4.png)
 
-* In *gradient_descent_feature_scaling.py*, we build the same model, while the input values are normalized. Run this code and understand how normalization helps.  
+* In *gradient_descent_feature_scaling.py*, we build the same model, while the input values are normalized. Run this code and understand how normalization helps with optimization.  
 **In any machine learning models, normalization is required as a default data-preprocessing method! Never forget to do this!**
 
 ## Get familiar with Tensorflow
