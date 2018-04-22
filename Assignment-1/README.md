@@ -7,7 +7,6 @@ Coach: [Yiqi Yan](https://saoyan.github.io/)
 * Get familiar with Tensorflow.
 
 ## Implement Linear Regression from scratch  
-**For simplicity, we ignore bias term in this example and only use the model *y = Wx* (rather than *y = Wx + b*). Adding bias term will make the "loss" further smaller.**
 * In *regression.py*, some key functions for Linear Regression are defined. **You task is to finished the computation of gradient in the function *gradientDescentOptimizer()*.**
 * In *gradient_descent.py*, we build a linear regression model, invoking *gradientDescentOptimizer()* you've just finished. Just run the code, and if you finished your task correctly, you would see the following figures.  
 ![](https://github.com/TFTxiaozu/TFT-ML-Week-2/blob/master/assets/assign_1_1.png)  
