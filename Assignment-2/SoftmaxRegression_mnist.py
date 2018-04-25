@@ -10,7 +10,8 @@
  #
  #  Complete your code between "YOUR CODE HERE" and "END CODE".
  #  Donn't modify other code!
- #
+ #  % python3 SoftmaxRegression_mnist.py
+ #  the accuracy will reach 90% after about 1000 steps of training
  #----------------------------------------------------------------
 
 import tensorflow as tf
