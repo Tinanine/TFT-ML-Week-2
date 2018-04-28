@@ -2,6 +2,12 @@
 
 Coach: [Yiqi Yan](https://saoyan.github.io/)  
 
+***
+Apil 28, 2018: releasing the reference code of Assignment 2   
+Please refer to [this script](https://github.com/SaoYan/LearningTensorflow/blob/master/exp03_SoftmaxRegression_mnist.py)
+
+***
+
 ## Goals  
 * Review what we talked about in tutorial
   * Basis of Tensorflow. You may find [this script](https://github.com/SaoYan/LearningTensorflow/blob/master/exp01_basic_usage.py) useful.
